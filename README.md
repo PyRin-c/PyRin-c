@@ -7,7 +7,7 @@
 |  名前  |  PyRin  |
 |  Twitter  |  [@PyRIN3](https://twitter.com/PyRIN3)  |
 | blog-自作(未だに空っぽ) | 公開するとセキュリティがガバガバなので保留 |
-| blog-WP(未だに空っぽ) | [pyrin-blog](https://pyrin-blog-next.com/) |
+| blog-WP | [pyrin-blog](https://pyrin-blog-next.com/) |
 
 ■技術履歴
 | 技術 | 技術レベル | 備考 |
